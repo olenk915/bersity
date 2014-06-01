@@ -1,0 +1,12 @@
+[25-Mar-2014 02:15:48 UTC] PHP Fatal error:  Allowed memory size of 100663296 bytes exhausted (tried to allocate 491520 bytes) in /home/bandver5/public_html/wp-includes/SimplePie/Item.php on line 1490
+[26-Mar-2014 18:28:57 UTC] PHP Fatal error:  Allowed memory size of 100663296 bytes exhausted (tried to allocate 131072 bytes) in /home/bandver5/public_html/wp-includes/class-simplepie.php on line 15
+[29-Mar-2014 01:51:10 UTC] PHP Fatal error:  Allowed memory size of 100663296 bytes exhausted (tried to allocate 71 bytes) in /home/bandver5/public_html/wp-includes/plugin.php on line 193
+[30-Mar-2014 16:35:36 UTC] PHP Fatal error:  Allowed memory size of 100663296 bytes exhausted (tried to allocate 30720 bytes) in /home/bandver5/public_html/wp-includes/SimplePie/Content/Type/Sniffer.php on line 108
+[02-Apr-2014 02:28:12 UTC] PHP Fatal error:  Allowed memory size of 100663296 bytes exhausted (tried to allocate 30720 bytes) in /home/bandver5/public_html/wp-includes/SimplePie/Locator.php on line 282
+[02-Apr-2014 02:29:44 UTC] PHP Fatal error:  Allowed memory size of 100663296 bytes exhausted (tried to allocate 30720 bytes) in /home/bandver5/public_html/wp-includes/SimplePie/Locator.php on line 282
+[02-Apr-2014 05:21:54 UTC] PHP Fatal error:  Allowed memory size of 100663296 bytes exhausted (tried to allocate 7680 bytes) in /home/bandver5/public_html/wp-includes/SimplePie/Locator.php on line 264
+[03-Apr-2014 00:24:01 UTC] PHP Fatal error:  Allowed memory size of 100663296 bytes exhausted (tried to allocate 32 bytes) in /home/bandver5/public_html/wp-content/plugins/buddypress-activity-plus/lib/external/simple_html_dom.php on line 800
+[03-Apr-2014 00:24:02 UTC] PHP Fatal error:  Allowed memory size of 100663296 bytes exhausted (tried to allocate 32 bytes) in /home/bandver5/public_html/wp-content/plugins/buddypress-activity-plus/lib/external/simple_html_dom.php on line 800
+[03-Apr-2014 00:24:13 UTC] PHP Fatal error:  Allowed memory size of 100663296 bytes exhausted (tried to allocate 32 bytes) in /home/bandver5/public_html/wp-content/plugins/buddypress-activity-plus/lib/external/simple_html_dom.php on line 800
+[04-Apr-2014 19:42:10 UTC] PHP Fatal error:  Allowed memory size of 100663296 bytes exhausted (tried to allocate 30720 bytes) in /home/bandver5/public_html/wp-includes/SimplePie/IRI.php on line 1006
+[04-Apr-2014 21:46:13 UTC] PHP Fatal error:  Allowed memory size of 100663296 bytes exhausted (tried to allocate 30720 bytes) in /home/bandver5/public_html/wp-includes/SimplePie/IRI.php on line 1006

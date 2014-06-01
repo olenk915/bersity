@@ -1,0 +1,64 @@
+/*
+Theme Name: Network
+Theme Date: 15/02/2010
+Version: 1.7.7.5
+Theme URI: http://premium.wpmudev.org/
+Description: Network is a simple but straightforward theme designed to work with Multi-Site and/or BuddyPress to present a presence of community.
+Author: Tammie Lister (Designer) and David Bisset (Developer) - WPMU DEV - The WordPress Experts
+Author URI: http://premium.wpmudev.org/
+WDP ID: 173
+
+Tags: buddypress, 2 columns, fixed width, threaded comments, theme options
+
+Uses BP-Default theme files and styling for BuddyPress components with some customisation for theme.  
+Included in theme to allow for own child themes rather than being child of BP-Default
+
+The CSS, XHTML and design is released under GPL:
+http://www.opensource.org/licenses/gpl-license.php
+
+*/
+
+/* 117783-1351218181-ai */
+
+body {
+padding-top: 60px !important;
+}
+
+#wpadminbar {
+	display: none;
+}
+
+#top_bar_float {
+	border: 1px solid #D8D8D8;
+	background: #F8F8F8;
+	width: 100%;
+	position: fixed;
+	left: 0;
+	top: 0;
+}
+
+#top_bar_float #discoveryBox {
+	width: 960px;
+	margin: 0px auto;
+	border: 0px !important;
+}
+
+#discoveryBox .searchBox {
+width: 370px !important;
+}
+
+#discoveryBox .profileBox {
+width: 550px !important;
+}
+
+.profileBox a.button {
+	border: 1px solid #E2E2E2 !important;
+	margin: 8px 5px 0 0 !important;
+	float: right !important;
+	line-height: 30px !important;
+	color: white !important;
+}
+
+div.submit-button {
+margin: 6px 10px 0 0 !important;
+}

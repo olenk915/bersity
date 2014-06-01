@@ -1,0 +1,10 @@
+[24-Mar-2014 21:24:35 CST6CDT] PHP Warning:  mysql_connect() [<a href='function.mysql-connect'>function.mysql-connect</a>]: Access denied for user 'bandve5_anblik'@'localhost' (using password: YES) in /home/bandver5/public_html/wp-content/themes/network/myboardimages.php on line 5
+[24-Mar-2014 21:24:35 CST6CDT] PHP Warning:  mysql_select_db() expects parameter 2 to be resource, boolean given in /home/bandver5/public_html/wp-content/themes/network/myboardimages.php on line 6
+[24-Mar-2014 21:24:35 CST6CDT] PHP Warning:  mysql_query() expects parameter 2 to be resource, boolean given in /home/bandver5/public_html/wp-content/themes/network/myboardimages.php on line 8
+[24-Mar-2014 21:24:35 CST6CDT] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, null given in /home/bandver5/public_html/wp-content/themes/network/myboardimages.php on line 10
+[24-Mar-2014 21:24:35 CST6CDT] PHP Warning:  mysql_query() expects parameter 2 to be resource, boolean given in /home/bandver5/public_html/wp-content/themes/network/myboardimages.php on line 18
+[24-Mar-2014 22:06:29 CST6CDT] PHP Warning:  mysql_connect() [<a href='function.mysql-connect'>function.mysql-connect</a>]: Access denied for user 'bandve5_anblik'@'localhost' (using password: YES) in /home/bandver5/public_html/wp-content/themes/network/myboardimages.php on line 5
+[24-Mar-2014 22:06:29 CST6CDT] PHP Warning:  mysql_select_db() expects parameter 2 to be resource, boolean given in /home/bandver5/public_html/wp-content/themes/network/myboardimages.php on line 6
+[24-Mar-2014 22:06:29 CST6CDT] PHP Warning:  mysql_query() expects parameter 2 to be resource, boolean given in /home/bandver5/public_html/wp-content/themes/network/myboardimages.php on line 8
+[24-Mar-2014 22:06:29 CST6CDT] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, null given in /home/bandver5/public_html/wp-content/themes/network/myboardimages.php on line 10
+[24-Mar-2014 22:06:29 CST6CDT] PHP Warning:  mysql_query() expects parameter 2 to be resource, boolean given in /home/bandver5/public_html/wp-content/themes/network/myboardimages.php on line 18
